@@ -874,7 +874,6 @@ code {
 pre code {
   padding: 0;
   background-color: transparent;
-  color: #e4e6eb;
   border-radius: 0;
 }
 
@@ -883,6 +882,7 @@ pre {
   line-height: 1.5em;
   border-radius: 0.25rem;
   padding: 0.59375rem;
+  color: #dee2e6
 }
 .highlight pre {
   border: none;

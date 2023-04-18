@@ -2,7 +2,7 @@
 layout: post
 title: Circle Loading Animation In Unity
 subtitle: Quick and easy
-tags: [unity]
+tags: [unity, tutorial]
 comments: true
 ---
 
@@ -24,7 +24,7 @@ All you need to do now is assign the script below to the "Progress" gameobject a
 
 ### The Code
 
-```C#
+```cs
 using UnityEngine;
 
 public class LoadingCircle : MonoBehaviour

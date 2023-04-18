@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Salus Games
+title: About
 ---
 
 I am a passionate creator who loves to build unique and captivating gaming experiences for players around the world.

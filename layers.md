@@ -11,7 +11,7 @@ Layers is an exciting puzzle platformer that offers a unique twist on the genre.
 * ![Image 1](assets/img/404-southpark.jpg)
 * ![Image 1](assets/img/404-southpark.jpg)
 
-<script src="assets/js/md-gallery.js"></script>
+<script src="../assets/js/md-gallery.js"></script>
 <script>
     md_gallery();
 </script>

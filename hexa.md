@@ -11,3 +11,7 @@ Featuring over 33 levels with varying degrees of difficulty, Hexa offers a uniqu
 The game comes with a level generator that creates an unlimited number of levels, providing an endless puzzle experience.
 
 Whether you're a seasoned puzzle player or a newcomer to the genre, Hexa offers a fun and engaging challenge that will keep you coming back for more.
+
+<div style="text-align:center">
+<iframe src="https://store.steampowered.com/widget/981620/" frameborder="0" width="646" height="190"></iframe>
+</div>

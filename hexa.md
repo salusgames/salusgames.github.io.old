@@ -4,7 +4,6 @@ title: Hexa
 subtitle: A puzzle game with a unique concept
 ---
 
-<base href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/">
 <div id="slider">
 <figure>
 <img src="../assets/img/404-southpark.jpg" alt>

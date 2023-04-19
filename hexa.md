@@ -6,11 +6,11 @@ subtitle: A puzzle game with a unique concept
 
 <div id="slider">
 <figure>
-<img src="../assets/img/404-southpark.jpg" alt>
-<img src="../assets/img/404-southpark.jpg" alt>
-<img src="../assets/img/404-southpark.jpg" alt>
-<img src="../assets/img/404-southpark.jpg" alt>
-<img src="../assets/img/404-southpark.jpg" alt>
+<img src="../assets/img/hexa/screenshot1.jpg" alt>
+<img src="../assets/img/hexa/screenshot2.jpg" alt>
+<img src="../assets/img/hexa/screenshot3.jpg" alt>
+<img src="../assets/img/hexa/screenshot4.jpg" alt>
+<img src="../assets/img/hexa/screenshot5.jpg" alt>
 </figure>
 </div>
 
